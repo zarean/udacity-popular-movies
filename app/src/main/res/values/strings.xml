@@ -1,0 +1,23 @@
+<resources>
+    <!--Titles and Names-->
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail"></string>
+    <string name="title_activity_main">Popular Movies</string>
+
+    <!--Menu Items-->
+    <string name="action_share">Share</string>
+
+    <!--detail fragment strings-->
+    <string name="detail_popularity">Popularity: %.2f</string>
+    <string name="detail_voteAverage">%.1f/10</string>
+    <string name="detail_voteCount">from %d votes</string>
+    <string name="detail_reviews">Reviews</string>
+    <string name="detail_videos">Videos</string>
+
+    <!--Tabs-->
+    <string name="tab_popular">Popular</string>
+    <string name="tab_toprated">Top Rated</string>
+    <string name="tab_favorite">Favorite</string>
+</resources>
+

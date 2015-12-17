@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Style for grid_view items in twoPane mode-->
+    <style name="grid_view_choice_mode">
+        <item name="android:choiceMode">singleChoice</item>
+    </style>
+</resources>
